@@ -8,9 +8,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 codigos = []
 
 def hallarCodigos():
-    #Hallando los códigos de todos los profes
-    facultades = ['A','C','E','G','I','L','M','N','P','Q','S']
-    hojasPorFacultad = [19,30,20,16,19,21,23,21,9,13,19]
+    #Hallando los códigos de todos los profes, ejecutar la primera vez
+    facultades = ['A']
+    hojasPorFacultad = [1]
 
     cookies = dict(PHPSESSID='4pcpkms76g5r9f8jki1a5s7292')
 
@@ -22,17 +22,33 @@ def hallarCodigos():
             soup = BeautifulSoup(response.text, 'html.parser')
             for link in soup.find_all('td'):
                 if(link.get('width') == "79"):
-                    print(str(link.contents[0]))
                     codigos.append(str(link.contents[0]))
 
     for i in range(0,len(codigos)):
         with open("codigos.txt", "a+", encoding="utf-8") as file:
             file.write(codigos[i] + "\n")
 
+def almacenarCodigos():
+
+    with open("codigos.txt", "r", encoding="utf-8") as file:
+        codigos = file.read().split('\n')
+    
+    codigos.pop(len(codigos)-1)
+
 # SEGUNDA PARTE: UTILIZANDO LOS CÓDIGOS PARA HALLAR TODOS LOS DATOS
 
 # https://www.orce.uni.edu.pe/detaalu.php?id=07686040&op=detdoc
 
+
+
+
+
+def main():
+    hallarCodigos()
+    #almacenarCodigos()
+
+if __name__ == "__main__":
+    main()
 
 
 
