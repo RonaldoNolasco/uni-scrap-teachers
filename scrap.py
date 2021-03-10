@@ -39,6 +39,12 @@ def almacenarCodigos():
 
     print(codigos)
 
+class Person:
+    def __init__(self, first_name, last_name, picture):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.picture = picture
+
 # SEGUNDA PARTE: UTILIZANDO LOS CÓDIGOS PARA HALLAR TODOS LOS DATOS
 def hallandoDatos():
     for i in range(0,len(codigos)):
@@ -46,8 +52,8 @@ def hallandoDatos():
         response = r.get(url, verify=False)
         response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
-        print(soup.find_all('td'))
-            
+        print(soup.find_all('td')[2].contents[0]['src'])
+        print(soup.find_all('td')[8].contents[0])
         print("-------------------------------------------")
 
 def main():
