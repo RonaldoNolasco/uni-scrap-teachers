@@ -9,8 +9,8 @@ codigos = []
 
 def hallarCodigos():
     #Hallando los códigos de todos los profes, ejecutar la primera vez
-    facultades = ['A']
-    hojasPorFacultad = [1]
+    facultades = ['A','C','E','G','I','L','M','N','P','Q','S']
+    hojasPorFacultad = [19,30,20,16,19,21,23,21,9,13,19]
 
     cookies = dict(PHPSESSID='4pcpkms76g5r9f8jki1a5s7292')
 
