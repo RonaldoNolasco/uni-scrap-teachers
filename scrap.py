@@ -24,8 +24,8 @@ def hallarCodigos():
                 if(link.get('width') == "79"):
                     codigos.append(str(link.contents[0]))
 
-    for i in range(0,len(codigos)):
-        with open("codigos.txt", "a+", encoding="utf-8") as file:
+    with open("codigos.txt", "w", encoding="utf-8") as file:
+        for i in range(0,len(codigos)):
             file.write(codigos[i] + "\n")
 
 def almacenarCodigos():
@@ -46,6 +46,8 @@ def almacenarCodigos():
 def main():
     hallarCodigos()
     #almacenarCodigos()
+
+    print(codigos)
 
 if __name__ == "__main__":
     main()
