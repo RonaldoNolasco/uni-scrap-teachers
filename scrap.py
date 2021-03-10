@@ -28,26 +28,28 @@ def hallarCodigos():
         for i in range(0,len(codigos)):
             file.write(codigos[i] + "\n")
 
-def almacenarCodigos():
+    print(codigos)
 
+def almacenarCodigos():
     with open("codigos.txt", "r", encoding="utf-8") as file:
-        codigos = file.read().split('\n')
-    
+        for value in file.read().split('\n'):
+            codigos.append(value)
+
     codigos.pop(len(codigos)-1)
+
+    print(codigos)
 
 # SEGUNDA PARTE: UTILIZANDO LOS CÓDIGOS PARA HALLAR TODOS LOS DATOS
 
 # https://www.orce.uni.edu.pe/detaalu.php?id=07686040&op=detdoc
 
 
-
-
-
 def main():
-    hallarCodigos()
-    #almacenarCodigos()
+    #hallarCodigos()
+    almacenarCodigos()
 
     print(codigos)
+
 
 if __name__ == "__main__":
     main()
