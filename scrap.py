@@ -7,8 +7,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 codigos = []
 
+#PRIMERA PARTE: Hallando los códigos de todos los profes, ejecutar la primera vez
 def hallarCodigos():
-    #Hallando los códigos de todos los profes, ejecutar la primera vez
     facultades = ['A','C','E','G','I','L','M','N','P','Q','S']
     hojasPorFacultad = [19,30,20,16,19,21,23,21,9,13,19]
 
@@ -40,9 +40,15 @@ def almacenarCodigos():
     print(codigos)
 
 # SEGUNDA PARTE: UTILIZANDO LOS CÓDIGOS PARA HALLAR TODOS LOS DATOS
-
-# https://www.orce.uni.edu.pe/detaalu.php?id=07686040&op=detdoc
-
+def hallandoDatos():
+    for i in range(0,len(codigos)):
+        url = "https://www.orce.uni.edu.pe/detaalu.php?id=" + codigos[i] + "&op=detdoc"
+        response = r.get(url, verify=False)
+        response.encoding = 'utf-8'
+        soup = BeautifulSoup(response.text, 'html.parser')
+        print(soup.find_all('td'))
+            
+        print("-------------------------------------------")
 
 def main():
     #hallarCodigos()
@@ -50,15 +56,13 @@ def main():
 
     print(codigos)
 
+    hallandoDatos()
+    
 
 if __name__ == "__main__":
     main()
 
-
-
-
 # . <- navigable object
-
 
 # print(soup.prettify())
 
