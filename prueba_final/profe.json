@@ -1,0 +1,813 @@
+[
+  {
+    "dni": "06010932",
+    "facultad": "I",
+    "apellidos": "Luis Alberto",
+    "nombres": "Zuloaga Rotta"
+  },
+  {
+    "dni": "06021005",
+    "facultad": "I",
+    "apellidos": "Percy",
+    "nombres": "Calizaya Neira"
+  },
+  {
+    "dni": "06024301",
+    "facultad": "I",
+    "apellidos": "Peñafort Luis",
+    "nombres": "Huaman Ureta"
+  },
+  {
+    "dni": "06072137",
+    "facultad": "I",
+    "apellidos": "Raquel Martha",
+    "nombres": "Chavarri Arce"
+  },
+  {
+    "dni": "06113278",
+    "facultad": "I",
+    "apellidos": "Carlos Alberto",
+    "nombres": "Chafloque Elias"
+  },
+  {
+    "dni": "06118719",
+    "facultad": "I",
+    "apellidos": "Adolfo Eleazar",
+    "nombres": "Valencia Napan"
+  },
+  {
+    "dni": "06136338",
+    "facultad": "I",
+    "apellidos": "Daniel",
+    "nombres": "Morillo Rojas"
+  },
+  {
+    "dni": "06155171",
+    "facultad": "I",
+    "apellidos": "Alberto Carlos",
+    "nombres": "Neyra Luza"
+  },
+  {
+    "dni": "06155335",
+    "facultad": "I",
+    "apellidos": "Jorge Pantaleon",
+    "nombres": "Alvarez Alvarez"
+  },
+  {
+    "dni": "06194640",
+    "facultad": "I",
+    "apellidos": "Tino Eduardo",
+    "nombres": "Reyna Monteverde"
+  },
+  {
+    "dni": "06199275",
+    "facultad": "I",
+    "apellidos": "Percy Victor",
+    "nombres": "Cañote Fajardo"
+  },
+  {
+    "dni": "06213304",
+    "facultad": "I",
+    "apellidos": "Ariel Ludwing",
+    "nombres": "Monroy Miranda"
+  },
+  {
+    "dni": "06242816",
+    "facultad": "I",
+    "apellidos": "Antonio",
+    "nombres": "Zuñiga Mercado"
+  },
+  {
+    "dni": "06560345",
+    "facultad": "I",
+    "apellidos": "Pedro Raul",
+    "nombres": "Acosta De La Cruz"
+  },
+  {
+    "dni": "06617725",
+    "facultad": "I",
+    "apellidos": "Jose Carlos",
+    "nombres": "Hidalgo Rodriguez"
+  },
+  {
+    "dni": "06633050",
+    "facultad": "I",
+    "apellidos": "Victor Jose",
+    "nombres": "Moncada Cajavilca"
+  },
+  {
+    "dni": "06680108",
+    "facultad": "I",
+    "apellidos": "Rodolfo Elias",
+    "nombres": "Falconi Vasquez"
+  },
+  {
+    "dni": "06703885",
+    "facultad": "I",
+    "apellidos": "Felipe Tsutomu",
+    "nombres": "Hiromoto Hiromoto"
+  },
+  {
+    "dni": "06793193",
+    "facultad": "I",
+    "apellidos": "Humberto Urbano",
+    "nombres": "Arteaga Cortez"
+  },
+  {
+    "dni": "06798544",
+    "facultad": "I",
+    "apellidos": "Jose Valerio",
+    "nombres": "Benites Yarleque"
+  },
+  {
+    "dni": "06925520",
+    "facultad": "I",
+    "apellidos": "Joaquin Magnot",
+    "nombres": "Salcedo Torres"
+  },
+  {
+    "dni": "06954147",
+    "facultad": "I",
+    "apellidos": "Alejandro Apolinario",
+    "nombres": "Huaman Sanchez"
+  },
+  {
+    "dni": "06974564",
+    "facultad": "I",
+    "apellidos": "Mery Noemi",
+    "nombres": "Morales Cuellar"
+  },
+  {
+    "dni": "07147676",
+    "facultad": "I",
+    "apellidos": "Daniel Adolfo",
+    "nombres": "Alcantara Malca"
+  },
+  {
+    "dni": "07174914",
+    "facultad": "I",
+    "apellidos": "Doris Fanny",
+    "nombres": "Rojas Mendoza"
+  },
+  {
+    "dni": "07200246",
+    "facultad": "I",
+    "apellidos": "Celedonio",
+    "nombres": "Mendez Valdivia"
+  },
+  {
+    "dni": "07207260",
+    "facultad": "I",
+    "apellidos": "Petra Eline",
+    "nombres": "Rondinel Pineda"
+  },
+  {
+    "dni": "07219818",
+    "facultad": "I",
+    "apellidos": "Gloria Teresita",
+    "nombres": "Huamani Huamani"
+  },
+  {
+    "dni": "07241464",
+    "facultad": "I",
+    "apellidos": "Ricardo Aurelio",
+    "nombres": "Rodriguez Ulloa"
+  },
+  {
+    "dni": "07277532",
+    "facultad": "I",
+    "apellidos": "Inocente Cirilo",
+    "nombres": "Sedano Santiago"
+  },
+  {
+    "dni": "07290532",
+    "facultad": "I",
+    "apellidos": "Luisa",
+    "nombres": "Llancce Mondragon"
+  },
+  {
+    "dni": "07338715",
+    "facultad": "I",
+    "apellidos": "Alejandrina Nelly",
+    "nombres": "Huarcaya Junes"
+  },
+  {
+    "dni": "07388362",
+    "facultad": "I",
+    "apellidos": "Carlos",
+    "nombres": "Muñoz Inga"
+  },
+  {
+    "dni": "07425813",
+    "facultad": "I",
+    "apellidos": "Carlos Eduardo",
+    "nombres": "Arambulo Ostos"
+  },
+  {
+    "dni": "07558599",
+    "facultad": "I",
+    "apellidos": "Javier",
+    "nombres": "Echeandia Cespedes"
+  },
+  {
+    "dni": "07698237",
+    "facultad": "I",
+    "apellidos": "Luis",
+    "nombres": "Lescano Avila"
+  },
+  {
+    "dni": "07709155",
+    "facultad": "I",
+    "apellidos": "Lourdes Cristina",
+    "nombres": "Kala Bejar"
+  },
+  {
+    "dni": "07733247",
+    "facultad": "I",
+    "apellidos": "Teodoro Luciano",
+    "nombres": "Cordova Neri"
+  },
+  {
+    "dni": "07745417",
+    "facultad": "I",
+    "apellidos": "Vicente",
+    "nombres": "Peña Yalico"
+  },
+  {
+    "dni": "07808743",
+    "facultad": "I",
+    "apellidos": "Nancy Elena",
+    "nombres": "Fukuda Kagami"
+  },
+  
+  {
+    "dni": "07908604",
+    "facultad": "I",
+    "apellidos": "Cesar Aurelio",
+    "nombres": "Miranda Torres"
+  },
+  {
+    "dni": "07909362",
+    "facultad": "I",
+    "apellidos": "Enrique Gustavo",
+    "nombres": "Alania Vera"
+  },
+  {
+    "dni": "07945809",
+    "facultad": "I",
+    "apellidos": "Carmen Ivonne",
+    "nombres": "Lau Carrillo"
+  },
+  {
+    "dni": "07955658",
+    "facultad": "I",
+    "apellidos": "Franco Luciano",
+    "nombres": "Krajnik Stulin"
+  },
+  {
+    "dni": "08036480",
+    "facultad": "I",
+    "apellidos": "Herlinda Irma",
+    "nombres": "Anco Bonifaz"
+  },
+  {
+    "dni": "08048168",
+    "facultad": "I",
+    "apellidos": "Haydee Liliana",
+    "nombres": "Lopez Benavides"
+  },
+  {
+    "dni": "08076105",
+    "facultad": "I",
+    "apellidos": "Luis Alberto",
+    "nombres": "Lujan Campos"
+  },
+  {
+    "dni": "08107146",
+    "facultad": "I",
+    "apellidos": "Victor Adolfo",
+    "nombres": "Leyton Diaz"
+  },
+  {
+    "dni": "08150300",
+    "facultad": "I",
+    "apellidos": "Jose",
+    "nombres": "Zamora Ramirez"
+  },
+  {
+    "dni": "08186262",
+    "facultad": "I",
+    "apellidos": "Carlos Antonio",
+    "nombres": "Flores Bashi"
+  },
+  {
+    "dni": "08195170",
+    "facultad": "I",
+    "apellidos": "Jorge Fernando",
+    "nombres": "Guzman Yangato"
+  },
+  {
+    "dni": "08230958",
+    "facultad": "I",
+    "apellidos": "Manuel Helarf",
+    "nombres": "Velarde Carpio"
+  },
+  {
+    "dni": "08244992",
+    "facultad": "I",
+    "apellidos": "Waldo Alejandro",
+    "nombres": "Rodriguez Franco"
+  },
+  {
+    "dni": "08250929",
+    "facultad": "I",
+    "apellidos": "Jose Hugo Patricio",
+    "nombres": "Portillo Campbell"
+  },
+  {
+    "dni": "08278734",
+    "facultad": "I",
+    "apellidos": "Jaime",
+    "nombres": "San Bartolome Montero"
+  },
+  {
+    "dni": "08405192",
+    "facultad": "I",
+    "apellidos": "Javier Tolentino",
+    "nombres": "Canchano Caro"
+  },
+  {
+    "dni": "08439755",
+    "facultad": "I",
+    "apellidos": "Luis Felipe",
+    "nombres": "Medina Aquino"
+  },
+  {
+    "dni": "08527553",
+    "facultad": "I",
+    "apellidos": "Hernan Julio",
+    "nombres": "Parra Osorio"
+  },
+  {
+    "dni": "08540874",
+    "facultad": "I",
+    "apellidos": "Jorge Daniel",
+    "nombres": "Llanos Panduro"
+  },
+  {
+    "dni": "08544786",
+    "facultad": "I",
+    "apellidos": "William",
+    "nombres": "Oria Chavarria"
+  },
+  {
+    "dni": "08562323",
+    "facultad": "I",
+    "apellidos": "Luis",
+    "nombres": "Fernandez Aguilar"
+  },
+  {
+    "dni": "08571911",
+    "facultad": "I",
+    "apellidos": "Guillermo Roldan",
+    "nombres": "Cruz Figueroa"
+  },
+  {
+    "dni": "08578583",
+    "facultad": "I",
+    "apellidos": "Riquelmer Apolinario",
+    "nombres": "Vasquez Dominguez"
+  },
+  {
+    "dni": "08602564",
+    "facultad": "I",
+    "apellidos": "Hector",
+    "nombres": "Valdivia Mendoza"
+  },
+  {
+    "dni": "08630936",
+    "facultad": "I",
+    "apellidos": "Gelacio",
+    "nombres": "Tafur Anzualdo"
+  },
+  {
+    "dni": "08646724",
+    "facultad": "I",
+    "apellidos": "Carlos",
+    "nombres": "Ramos Montes"
+  },
+  {
+    "dni": "08666248",
+    "facultad": "I",
+    "apellidos": "Victor Arturo",
+    "nombres": "Simich Lopez"
+  },
+  {
+    "dni": "08704308",
+    "facultad": "I",
+    "apellidos": "Emilio Alberto",
+    "nombres": "Un Jan Liau Hing"
+  },
+  {
+    "dni": "08724993",
+    "facultad": "I",
+    "apellidos": "Margarita Delicia",
+    "nombres": "Mondragon Hernandez"
+  },
+  {
+    "dni": "08738556",
+    "facultad": "I",
+    "apellidos": "Luis Alberto",
+    "nombres": "Callo Moscoso"
+  },
+  {
+    "dni": "08796599",
+    "facultad": "I",
+    "apellidos": "Bruno Juan",
+    "nombres": "Puccio Quevedo"
+  },
+  {
+    "dni": "08811025",
+    "facultad": "I",
+    "apellidos": "Ernesto Robinson",
+    "nombres": "Flores Cisneros"
+  },
+  {
+    "dni": "08841400",
+    "facultad": "I",
+    "apellidos": "Oscar Guillermo",
+    "nombres": "Zaldivar Alvarez"
+  },
+  {
+    "dni": "08855934",
+    "facultad": "I",
+    "apellidos": "Fernando",
+    "nombres": "Sotomayor Aramburu"
+  },
+  {
+    "dni": "08857324",
+    "facultad": "I",
+    "apellidos": "Leoncio Luis",
+    "nombres": "Acuña Pinaud"
+  },
+  {
+    "dni": "09097479",
+    "facultad": "I",
+    "apellidos": "Juan Carlos",
+    "nombres": "Sotelo Villena"
+  },
+  {
+    "dni": "09158351",
+    "facultad": "I",
+    "apellidos": "Mario Heinrich",
+    "nombres": "Fisfalen Huerta"
+  },
+  {
+    "dni": "09159224",
+    "facultad": "I",
+    "apellidos": "Roberto Erasmo",
+    "nombres": "Eyzaguirre Tejada"
+  },
+  {
+    "dni": "09179094",
+    "facultad": "I",
+    "apellidos": "Wilfredo",
+    "nombres": "Carranza Barrena"
+  },
+  {
+    "dni": "09183201",
+    "facultad": "I",
+    "apellidos": "Ricardo Alejandro",
+    "nombres": "Chung Ching"
+  },
+  {
+    "dni": "09192541",
+    "facultad": "I",
+    "apellidos": "Bilma Elizabeth",
+    "nombres": "Osorio Marujo"
+  },
+  {
+    "dni": "09199759",
+    "facultad": "I",
+    "apellidos": "Javier Concepcion",
+    "nombres": "Sanchez Espinoza"
+  },
+  {
+    "dni": "09309255",
+    "facultad": "I",
+    "apellidos": "Cesar Antonio",
+    "nombres": "Fernandez Lostaunau"
+  },
+  {
+    "dni": "09346414",
+    "facultad": "I",
+    "apellidos": "Samuel Alonso",
+    "nombres": "Oporto Diaz"
+  },
+  {
+    "dni": "09364223",
+    "facultad": "I",
+    "apellidos": "John Edison",
+    "nombres": "Taipe Arias"
+  },
+  {
+    "dni": "09443967",
+    "facultad": "I",
+    "apellidos": "Saul",
+    "nombres": "Acevedo Raymundo"
+  },
+  {
+    "dni": "09521411",
+    "facultad": "I",
+    "apellidos": "Jesus Walter",
+    "nombres": "Antaurco Trujillo"
+  },
+  {
+    "dni": "09536866",
+    "facultad": "I",
+    "apellidos": "Luis Alberto",
+    "nombres": "Ulfe Vega"
+  },
+  {
+    "dni": "09554620",
+    "facultad": "I",
+    "apellidos": "Jaime Ignacio",
+    "nombres": "Ramos Moreno"
+  },
+  {
+    "dni": "09564573",
+    "facultad": "I",
+    "apellidos": "Ruben Arturo",
+    "nombres": "Borja Rosales"
+  },
+  {
+    "dni": "09646613",
+    "facultad": "I",
+    "apellidos": "Wilmer",
+    "nombres": "Perfecto Manrique"
+  },
+  {
+    "dni": "09794509",
+    "facultad": "I",
+    "apellidos": "Isaac Ernesto",
+    "nombres": "Bringas Masgo"
+  },
+  {
+    "dni": "09881386",
+    "facultad": "I",
+    "apellidos": "Silvio",
+    "nombres": "Quinteros Chavez"
+  },
+  {
+    "dni": "09919366",
+    "facultad": "I",
+    "apellidos": "Paul Miller",
+    "nombres": "Tocto Inga"
+  },
+  {
+    "dni": "09958605",
+    "facultad": "I",
+    "apellidos": "Alfredo Rolando",
+    "nombres": "Aguero Mauricio"
+  },
+  {
+    "dni": "09986970",
+    "facultad": "I",
+    "apellidos": "Enero Antonio",
+    "nombres": "Jaime Alfredo"
+  },
+  {
+    "dni": 10061628,
+    "facultad": "I",
+    "apellidos": "Carlos Alfredo",
+    "nombres": "Trigo Perez"
+  },
+  {
+    "dni": 10062042,
+    "facultad": "I",
+    "apellidos": "Glen Dario",
+    "nombres": "Rodriguez Rafael"
+  },
+  {
+    "dni": 10080908,
+    "facultad": "I",
+    "apellidos": "Wester Edison",
+    "nombres": "Zela Moraya"
+  },
+  {
+    "dni": 10131593,
+    "facultad": "I",
+    "apellidos": "Johnny Martin",
+    "nombres": "Pacheco Contreras"
+  },
+  {
+    "dni": 10212510,
+    "facultad": "I",
+    "apellidos": "Carlos Fidel",
+    "nombres": "Ponce Sanchez"
+  },
+  {
+    "dni": 10312636,
+    "facultad": "I",
+    "apellidos": "Osmar",
+    "nombres": "Bermeo Carrasco"
+  },
+  {
+    "dni": 10321869,
+    "facultad": "I",
+    "apellidos": "Jose Alberto",
+    "nombres": "Villanueva Herrera"
+  },
+  {
+    "dni": 10340291,
+    "facultad": "I",
+    "apellidos": "Victor Antonio",
+    "nombres": "Caicedo Bustamante"
+  },
+  {
+    "dni": 10437041,
+    "facultad": "I",
+    "apellidos": "Yolanda Adriana",
+    "nombres": "Segura Garcia"
+  },
+  {
+    "dni": 10491625,
+    "facultad": "I",
+    "apellidos": "Emerson Flormiro",
+    "nombres": "Carranza Milla"
+  },
+  {
+    "dni": 10689661,
+    "facultad": "I",
+    "apellidos": "Jose Alfredo",
+    "nombres": "Espinoza Espinoza"
+  },
+  {
+    "dni": 10702554,
+    "facultad": "I",
+    "apellidos": "Aldo Antonio",
+    "nombres": "Bravo Quispe"
+  },
+  {
+    "dni": 10774391,
+    "facultad": "I",
+    "apellidos": "Richard Ismael",
+    "nombres": "Zamora Yansi"
+  },
+  {
+    "dni": 10866812,
+    "facultad": "I",
+    "apellidos": "Gloria Esther",
+    "nombres": "Valdivia Camacho"
+  },
+  {
+    "dni": 15760632,
+    "facultad": "I",
+    "apellidos": "Salas Cordero",
+    "nombres": "Rocio Guadalupe"
+  },
+  {
+    "dni": 16023383,
+    "facultad": "I",
+    "apellidos": "Eliana Cecilia",
+    "nombres": "Rizabal Flores"
+  },
+  {
+    "dni": 17821759,
+    "facultad": "I",
+    "apellidos": "Yarko Alvaro",
+    "nombres": "Cerna Valdez"
+  },
+  {
+    "dni": 17943927,
+    "facultad": "I",
+    "apellidos": "Josue",
+    "nombres": "Angulo Perez"
+  },
+  {
+    "dni": 17949772,
+    "facultad": "I",
+    "apellidos": "Gladys",
+    "nombres": "Cruz Yupanqui"
+  },
+  {
+    "dni": 18037461,
+    "facultad": "I",
+    "apellidos": "Jose Luis",
+    "nombres": "Alvarado Rodriguez"
+  },
+  {
+    "dni": 18099130,
+    "facultad": "I",
+    "apellidos": "Eduardo Jose",
+    "nombres": "Cieza De Leon Tuesta"
+  },
+  {
+    "dni": 18206962,
+    "facultad": "I",
+    "apellidos": "Leonidas Benito",
+    "nombres": "Zarate Otarola"
+  },
+  {
+    "dni": 20024564,
+    "facultad": "I",
+    "apellidos": "Edgar Socrates",
+    "nombres": "Vilcapoma Escurra"
+  },
+  {
+    "dni": 21240610,
+    "facultad": "I",
+    "apellidos": "Eloy Eladio",
+    "nombres": "Ayala Falcon"
+  },
+  {
+    "dni": 21298175,
+    "facultad": "I",
+    "apellidos": "Carlos",
+    "nombres": "Sanchez Huaringa"
+  },
+  {
+    "dni": 21805170,
+    "facultad": "I",
+    "apellidos": "Cesar Aldo",
+    "nombres": "Canelo Sotelo"
+  },
+  {
+    "dni": 25408588,
+    "facultad": "I",
+    "apellidos": "Santiago",
+    "nombres": "Tarazona Ponte"
+  },
+  {
+    "dni": 25502589,
+    "facultad": "I",
+    "apellidos": "Maria Enerina",
+    "nombres": "Eguzquiza Figueroa"
+  },
+  {
+    "dni": 25624356,
+    "facultad": "I",
+    "apellidos": "Jose Antonio",
+    "nombres": "Linares Valencia"
+  },
+  {
+    "dni": 25718957,
+    "facultad": "I",
+    "apellidos": "Javier Armando",
+    "nombres": "Huerta Ortega"
+  },
+  {
+    "dni": 30857223,
+    "facultad": "I",
+    "apellidos": "Rildo",
+    "nombres": "Campana Añasco"
+  },
+  {
+    "dni": 41029100,
+    "facultad": "I",
+    "apellidos": "Miguel",
+    "nombres": "Mosquera Molina"
+  },
+  {
+    "dni": 41585247,
+    "facultad": "I",
+    "apellidos": "Jesus",
+    "nombres": "Cernades Gomez"
+  },
+  {
+    "dni": 41838981,
+    "facultad": "I",
+    "apellidos": "John Clerk",
+    "nombres": "Valle Santos"
+  },
+  {
+    "dni": 42231841,
+    "facultad": "I",
+    "apellidos": "Rony Jordan",
+    "nombres": "Hancco Carpio"
+  },
+  {
+    "dni": 42321183,
+    "facultad": "I",
+    "apellidos": "Miguel",
+    "nombres": "Cutipa Coaquira"
+  },
+  {
+    "dni": 42405425,
+    "facultad": "I",
+    "apellidos": "Pamela Maruja",
+    "nombres": "Obando Chavez"
+  },
+  {
+    "dni": 43658083,
+    "facultad": "I",
+    "apellidos": "Jose Alberto",
+    "nombres": "Caballero Ortiz"
+  },
+  {
+    "dni": 45846630,
+    "facultad": "I",
+    "apellidos": "Salas Coz",
+    "nombres": "Erwin Erasmo"
+  }
+]

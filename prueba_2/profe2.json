@@ -1,0 +1,947 @@
+[
+    {
+      "dni": "06010932",
+      "facultad": "I",
+      "apellidos": "Luis Alberto",
+      "nombres": "Zuloaga Rotta",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06010932.jpg"
+    },
+    {
+      "dni": "06021005",
+      "facultad": "I",
+      "apellidos": "Percy",
+      "nombres": "Calizaya Neira",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06021005.jpg"
+    },
+    {
+      "dni": "06024301",
+      "facultad": "I",
+      "apellidos": "Peñafort Luis",
+      "nombres": "Huaman Ureta",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06024301.jpg"
+    },
+    {
+      "dni": "06072137",
+      "facultad": "I",
+      "apellidos": "Raquel Martha",
+      "nombres": "Chavarri Arce",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06072137.jpg"
+    },
+    {
+      "dni": "06113278",
+      "facultad": "I",
+      "apellidos": "Carlos Alberto",
+      "nombres": "Chafloque Elias",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06113278.jpg"
+    },
+    {
+      "dni": "06118719",
+      "facultad": "I",
+      "apellidos": "Adolfo Eleazar",
+      "nombres": "Valencia Napan",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06118719.jpg"
+    },
+    {
+      "dni": "06136338",
+      "facultad": "I",
+      "apellidos": "Daniel",
+      "nombres": "Morillo Rojas",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06136338.jpg"
+    },
+    {
+      "dni": "06155171",
+      "facultad": "I",
+      "apellidos": "Alberto Carlos",
+      "nombres": "Neyra Luza",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06155171.jpg"
+    },
+    {
+      "dni": "06155335",
+      "facultad": "I",
+      "apellidos": "Jorge Pantaleon",
+      "nombres": "Alvarez Alvarez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06155335.jpg"
+    },
+    {
+      "dni": "06194640",
+      "facultad": "I",
+      "apellidos": "Tino Eduardo",
+      "nombres": "Reyna Monteverde",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06194640.jpg"
+    },
+    {
+      "dni": "06199275",
+      "facultad": "I",
+      "apellidos": "Percy Victor",
+      "nombres": "Cañote Fajardo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06199275.jpg"
+    },
+    {
+      "dni": "06213304",
+      "facultad": "I",
+      "apellidos": "Ariel Ludwing",
+      "nombres": "Monroy Miranda",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06213304.jpg"
+    },
+    {
+      "dni": "06242816",
+      "facultad": "I",
+      "apellidos": "Antonio",
+      "nombres": "Zuñiga Mercado",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06242816.jpg"
+    },
+    {
+      "dni": "06560345",
+      "facultad": "I",
+      "apellidos": "Pedro Raul",
+      "nombres": "Acosta De La Cruz",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06560345.jpg"
+    },
+    {
+      "dni": "06617725",
+      "facultad": "I",
+      "apellidos": "Jose Carlos",
+      "nombres": "Hidalgo Rodriguez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06617725.jpg"
+    },
+    {
+      "dni": "06633050",
+      "facultad": "I",
+      "apellidos": "Victor Jose",
+      "nombres": "Moncada Cajavilca",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06633050.jpg"
+    },
+    {
+      "dni": "06680108",
+      "facultad": "I",
+      "apellidos": "Rodolfo Elias",
+      "nombres": "Falconi Vasquez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06680108.jpg"
+    },
+    {
+      "dni": "06703885",
+      "facultad": "I",
+      "apellidos": "Felipe Tsutomu",
+      "nombres": "Hiromoto Hiromoto",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06703885.jpg"
+    },
+    {
+      "dni": "06793193",
+      "facultad": "I",
+      "apellidos": "Humberto Urbano",
+      "nombres": "Arteaga Cortez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06793193.jpg"
+    },
+    {
+      "dni": "06798544",
+      "facultad": "I",
+      "apellidos": "Jose Valerio",
+      "nombres": "Benites Yarleque",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06798544.jpg"
+    },
+    {
+      "dni": "06925520",
+      "facultad": "I",
+      "apellidos": "Joaquin Magnot",
+      "nombres": "Salcedo Torres",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06925520.jpg"
+    },
+    {
+      "dni": "06954147",
+      "facultad": "I",
+      "apellidos": "Alejandro Apolinario",
+      "nombres": "Huaman Sanchez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06954147.jpg"
+    },
+    {
+      "dni": "06974564",
+      "facultad": "I",
+      "apellidos": "Mery Noemi",
+      "nombres": "Morales Cuellar",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/06974564.jpg"
+    },
+    {
+      "dni": "07147676",
+      "facultad": "I",
+      "apellidos": "Daniel Adolfo",
+      "nombres": "Alcantara Malca",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07147676.jpg"
+    },
+    {
+      "dni": "07174914",
+      "facultad": "I",
+      "apellidos": "Doris Fanny",
+      "nombres": "Rojas Mendoza",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07174914.jpg"
+    },
+    {
+      "dni": "07200246",
+      "facultad": "I",
+      "apellidos": "Celedonio",
+      "nombres": "Mendez Valdivia",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07200246.jpg"
+    },
+    {
+      "dni": "07207260",
+      "facultad": "I",
+      "apellidos": "Petra Eline",
+      "nombres": "Rondinel Pineda",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07207260.jpg"
+    },
+    {
+      "dni": "07219818",
+      "facultad": "I",
+      "apellidos": "Gloria Teresita",
+      "nombres": "Huamani Huamani",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07219818.jpg"
+    },
+    {
+      "dni": "07241464",
+      "facultad": "I",
+      "apellidos": "Ricardo Aurelio",
+      "nombres": "Rodriguez Ulloa",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07241464.jpg"
+    },
+    {
+      "dni": "07277532",
+      "facultad": "I",
+      "apellidos": "Inocente Cirilo",
+      "nombres": "Sedano Santiago",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07277532.jpg"
+    },
+    {
+      "dni": "07290532",
+      "facultad": "I",
+      "apellidos": "Luisa",
+      "nombres": "Llancce Mondragon",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07290532.jpg"
+    },
+    {
+      "dni": "07338715",
+      "facultad": "I",
+      "apellidos": "Alejandrina Nelly",
+      "nombres": "Huarcaya Junes",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07338715.jpg"
+    },
+    {
+      "dni": "07388362",
+      "facultad": "I",
+      "apellidos": "Carlos",
+      "nombres": "Muñoz Inga",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07388362.jpg"
+    },
+    {
+      "dni": "07425813",
+      "facultad": "I",
+      "apellidos": "Carlos Eduardo",
+      "nombres": "Arambulo Ostos",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07425813.jpg"
+    },
+    {
+      "dni": "07558599",
+      "facultad": "I",
+      "apellidos": "Javier",
+      "nombres": "Echeandia Cespedes",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07558599.jpg"
+    },
+    {
+      "dni": "07698237",
+      "facultad": "I",
+      "apellidos": "Luis",
+      "nombres": "Lescano Avila",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07698237.jpg"
+    },
+    {
+      "dni": "07709155",
+      "facultad": "I",
+      "apellidos": "Lourdes Cristina",
+      "nombres": "Kala Bejar",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07709155.jpg"
+    },
+    {
+      "dni": "07733247",
+      "facultad": "I",
+      "apellidos": "Teodoro Luciano",
+      "nombres": "Cordova Neri",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07733247.jpg"
+    },
+    {
+      "dni": "07745417",
+      "facultad": "I",
+      "apellidos": "Vicente",
+      "nombres": "Peña Yalico",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07745417.jpg"
+    },
+    {
+      "dni": "07808743",
+      "facultad": "I",
+      "apellidos": "Nancy Elena",
+      "nombres": "Fukuda Kagami",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07808743.jpg"
+    },
+    {
+      "dni": "07908604",
+      "facultad": "I",
+      "apellidos": "Cesar Aurelio",
+      "nombres": "Miranda Torres",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07908604.jpg"
+    },
+    {
+      "dni": "07909362",
+      "facultad": "I",
+      "apellidos": "Enrique Gustavo",
+      "nombres": "Alania Vera",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07909362.jpg"
+    },
+    {
+      "dni": "07945809",
+      "facultad": "I",
+      "apellidos": "Carmen Ivonne",
+      "nombres": "Lau Carrillo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07945809.jpg"
+    },
+    {
+      "dni": "07955658",
+      "facultad": "I",
+      "apellidos": "Franco Luciano",
+      "nombres": "Krajnik Stulin",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/07955658.jpg"
+    },
+    {
+      "dni": "08036480",
+      "facultad": "I",
+      "apellidos": "Herlinda Irma",
+      "nombres": "Anco Bonifaz",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08036480.jpg"
+    },
+    {
+      "dni": "08048168",
+      "facultad": "I",
+      "apellidos": "Haydee Liliana",
+      "nombres": "Lopez Benavides",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08048168.jpg"
+    },
+    {
+      "dni": "08076105",
+      "facultad": "I",
+      "apellidos": "Luis Alberto",
+      "nombres": "Lujan Campos",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08076105.jpg"
+    },
+    {
+      "dni": "08107146",
+      "facultad": "I",
+      "apellidos": "Victor Adolfo",
+      "nombres": "Leyton Diaz",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08107146.jpg"
+    },
+    {
+      "dni": "08150300",
+      "facultad": "I",
+      "apellidos": "Jose",
+      "nombres": "Zamora Ramirez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08150300.jpg"
+    },
+    {
+      "dni": "08186262",
+      "facultad": "I",
+      "apellidos": "Carlos Antonio",
+      "nombres": "Flores Bashi",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08186262.jpg"
+    },
+    {
+      "dni": "08195170",
+      "facultad": "I",
+      "apellidos": "Jorge Fernando",
+      "nombres": "Guzman Yangato",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08195170.jpg"
+    },
+    {
+      "dni": "08230958",
+      "facultad": "I",
+      "apellidos": "Manuel Helarf",
+      "nombres": "Velarde Carpio",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08230958.jpg"
+    },
+    {
+      "dni": "08244992",
+      "facultad": "I",
+      "apellidos": "Waldo Alejandro",
+      "nombres": "Rodriguez Franco",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08244992.jpg"
+    },
+    {
+      "dni": "08250929",
+      "facultad": "I",
+      "apellidos": "Jose Hugo Patricio",
+      "nombres": "Portillo Campbell",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08250929.jpg"
+    },
+    {
+      "dni": "08278734",
+      "facultad": "I",
+      "apellidos": "Jaime",
+      "nombres": "San Bartolome Montero",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08278734.jpg"
+    },
+    {
+      "dni": "08405192",
+      "facultad": "I",
+      "apellidos": "Javier Tolentino",
+      "nombres": "Canchano Caro",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08405192.jpg"
+    },
+    {
+      "dni": "08439755",
+      "facultad": "I",
+      "apellidos": "Luis Felipe",
+      "nombres": "Medina Aquino",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08439755.jpg"
+    },
+    {
+      "dni": "08527553",
+      "facultad": "I",
+      "apellidos": "Hernan Julio",
+      "nombres": "Parra Osorio",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08527553.jpg"
+    },
+    {
+      "dni": "08540874",
+      "facultad": "I",
+      "apellidos": "Jorge Daniel",
+      "nombres": "Llanos Panduro",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08540874.jpg"
+    },
+    {
+      "dni": "08544786",
+      "facultad": "I",
+      "apellidos": "William",
+      "nombres": "Oria Chavarria",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08544786.jpg"
+    },
+    {
+      "dni": "08562323",
+      "facultad": "I",
+      "apellidos": "Luis",
+      "nombres": "Fernandez Aguilar",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08562323.jpg"
+    },
+    {
+      "dni": "08571911",
+      "facultad": "I",
+      "apellidos": "Guillermo Roldan",
+      "nombres": "Cruz Figueroa",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08571911.jpg"
+    },
+    {
+      "dni": "08578583",
+      "facultad": "I",
+      "apellidos": "Riquelmer Apolinario",
+      "nombres": "Vasquez Dominguez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08578583.jpg"
+    },
+    {
+      "dni": "08602564",
+      "facultad": "I",
+      "apellidos": "Hector",
+      "nombres": "Valdivia Mendoza",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08602564.jpg"
+    },
+    {
+      "dni": "08630936",
+      "facultad": "I",
+      "apellidos": "Gelacio",
+      "nombres": "Tafur Anzualdo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08630936.jpg"
+    },
+    {
+      "dni": "08646724",
+      "facultad": "I",
+      "apellidos": "Carlos",
+      "nombres": "Ramos Montes",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08646724.jpg"
+    },
+    {
+      "dni": "08666248",
+      "facultad": "I",
+      "apellidos": "Victor Arturo",
+      "nombres": "Simich Lopez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08666248.jpg"
+    },
+    {
+      "dni": "08704308",
+      "facultad": "I",
+      "apellidos": "Emilio Alberto",
+      "nombres": "Un Jan Liau Hing",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08704308.jpg"
+    },
+    {
+      "dni": "08724993",
+      "facultad": "I",
+      "apellidos": "Margarita Delicia",
+      "nombres": "Mondragon Hernandez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08724993.jpg"
+    },
+    {
+      "dni": "08738556",
+      "facultad": "I",
+      "apellidos": "Luis Alberto",
+      "nombres": "Callo Moscoso",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08738556.jpg"
+    },
+    {
+      "dni": "08796599",
+      "facultad": "I",
+      "apellidos": "Bruno Juan",
+      "nombres": "Puccio Quevedo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08796599.jpg"
+    },
+    {
+      "dni": "08811025",
+      "facultad": "I",
+      "apellidos": "Ernesto Robinson",
+      "nombres": "Flores Cisneros",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08811025.jpg"
+    },
+    {
+      "dni": "08841400",
+      "facultad": "I",
+      "apellidos": "Oscar Guillermo",
+      "nombres": "Zaldivar Alvarez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08841400.jpg"
+    },
+    {
+      "dni": "08855934",
+      "facultad": "I",
+      "apellidos": "Fernando",
+      "nombres": "Sotomayor Aramburu",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08855934.jpg"
+    },
+    {
+      "dni": "08857324",
+      "facultad": "I",
+      "apellidos": "Leoncio Luis",
+      "nombres": "Acuña Pinaud",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/08857324.jpg"
+    },
+    {
+      "dni": "09097479",
+      "facultad": "I",
+      "apellidos": "Juan Carlos",
+      "nombres": "Sotelo Villena",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09097479.jpg"
+    },
+    {
+      "dni": "09158351",
+      "facultad": "I",
+      "apellidos": "Mario Heinrich",
+      "nombres": "Fisfalen Huerta",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09158351.jpg"
+    },
+    {
+      "dni": "09159224",
+      "facultad": "I",
+      "apellidos": "Roberto Erasmo",
+      "nombres": "Eyzaguirre Tejada",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09159224.jpg"
+    },
+    {
+      "dni": "09179094",
+      "facultad": "I",
+      "apellidos": "Wilfredo",
+      "nombres": "Carranza Barrena",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09179094.jpg"
+    },
+    {
+      "dni": "09183201",
+      "facultad": "I",
+      "apellidos": "Ricardo Alejandro",
+      "nombres": "Chung Ching",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09183201.jpg"
+    },
+    {
+      "dni": "09192541",
+      "facultad": "I",
+      "apellidos": "Bilma Elizabeth",
+      "nombres": "Osorio Marujo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09192541.jpg"
+    },
+    {
+      "dni": "09199759",
+      "facultad": "I",
+      "apellidos": "Javier Concepcion",
+      "nombres": "Sanchez Espinoza",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09199759.jpg"
+    },
+    {
+      "dni": "09309255",
+      "facultad": "I",
+      "apellidos": "Cesar Antonio",
+      "nombres": "Fernandez Lostaunau",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09309255.jpg"
+    },
+    {
+      "dni": "09346414",
+      "facultad": "I",
+      "apellidos": "Samuel Alonso",
+      "nombres": "Oporto Diaz",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09346414.jpg"
+    },
+    {
+      "dni": "09364223",
+      "facultad": "I",
+      "apellidos": "John Edison",
+      "nombres": "Taipe Arias",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09364223.jpg"
+    },
+    {
+      "dni": "09443967",
+      "facultad": "I",
+      "apellidos": "Saul",
+      "nombres": "Acevedo Raymundo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09443967.jpg"
+    },
+    {
+      "dni": "09521411",
+      "facultad": "I",
+      "apellidos": "Jesus Walter",
+      "nombres": "Antaurco Trujillo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09521411.jpg"
+    },
+    {
+      "dni": "09536866",
+      "facultad": "I",
+      "apellidos": "Luis Alberto",
+      "nombres": "Ulfe Vega",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09536866.jpg"
+    },
+    {
+      "dni": "09554620",
+      "facultad": "I",
+      "apellidos": "Jaime Ignacio",
+      "nombres": "Ramos Moreno",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09554620.jpg"
+    },
+    {
+      "dni": "09564573",
+      "facultad": "I",
+      "apellidos": "Ruben Arturo",
+      "nombres": "Borja Rosales",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09564573.jpg"
+    },
+    {
+      "dni": "09646613",
+      "facultad": "I",
+      "apellidos": "Wilmer",
+      "nombres": "Perfecto Manrique",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09646613.jpg"
+    },
+    {
+      "dni": "09794509",
+      "facultad": "I",
+      "apellidos": "Isaac Ernesto",
+      "nombres": "Bringas Masgo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09794509.jpg"
+    },
+    {
+      "dni": "09881386",
+      "facultad": "I",
+      "apellidos": "Silvio",
+      "nombres": "Quinteros Chavez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09881386.jpg"
+    },
+    {
+      "dni": "09919366",
+      "facultad": "I",
+      "apellidos": "Paul Miller",
+      "nombres": "Tocto Inga",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09919366.jpg"
+    },
+    {
+      "dni": "09958605",
+      "facultad": "I",
+      "apellidos": "Alfredo Rolando",
+      "nombres": "Aguero Mauricio",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09958605.jpg"
+    },
+    {
+      "dni": "09986970",
+      "facultad": "I",
+      "apellidos": "Enero Antonio",
+      "nombres": "Jaime Alfredo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/09986970.jpg"
+    },
+    {
+      "dni": 10061628,
+      "facultad": "I",
+      "apellidos": "Carlos Alfredo",
+      "nombres": "Trigo Perez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10061628.jpg"
+    },
+    {
+      "dni": 10062042,
+      "facultad": "I",
+      "apellidos": "Glen Dario",
+      "nombres": "Rodriguez Rafael",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10062042.jpg"
+    },
+    {
+      "dni": 10080908,
+      "facultad": "I",
+      "apellidos": "Wester Edison",
+      "nombres": "Zela Moraya",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10080908.jpg"
+    },
+    {
+      "dni": 10131593,
+      "facultad": "I",
+      "apellidos": "Johnny Martin",
+      "nombres": "Pacheco Contreras",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10131593.jpg"
+    },
+    {
+      "dni": 10212510,
+      "facultad": "I",
+      "apellidos": "Carlos Fidel",
+      "nombres": "Ponce Sanchez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10212510.jpg"
+    },
+    {
+      "dni": 10312636,
+      "facultad": "I",
+      "apellidos": "Osmar",
+      "nombres": "Bermeo Carrasco",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10312636.jpg"
+    },
+    {
+      "dni": 10321869,
+      "facultad": "I",
+      "apellidos": "Jose Alberto",
+      "nombres": "Villanueva Herrera",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10321869.jpg"
+    },
+    {
+      "dni": 10340291,
+      "facultad": "I",
+      "apellidos": "Victor Antonio",
+      "nombres": "Caicedo Bustamante",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10340291.jpg"
+    },
+    {
+      "dni": 10437041,
+      "facultad": "I",
+      "apellidos": "Yolanda Adriana",
+      "nombres": "Segura Garcia",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10437041.jpg"
+    },
+    {
+      "dni": 10491625,
+      "facultad": "I",
+      "apellidos": "Emerson Flormiro",
+      "nombres": "Carranza Milla",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10491625.jpg"
+    },
+    {
+      "dni": 10689661,
+      "facultad": "I",
+      "apellidos": "Jose Alfredo",
+      "nombres": "Espinoza Espinoza",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10689661.jpg"
+    },
+    {
+      "dni": 10702554,
+      "facultad": "I",
+      "apellidos": "Aldo Antonio",
+      "nombres": "Bravo Quispe",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10702554.jpg"
+    },
+    {
+      "dni": 10774391,
+      "facultad": "I",
+      "apellidos": "Richard Ismael",
+      "nombres": "Zamora Yansi",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10774391.jpg"
+    },
+    {
+      "dni": 10866812,
+      "facultad": "I",
+      "apellidos": "Gloria Esther",
+      "nombres": "Valdivia Camacho",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/10866812.jpg"
+    },
+    {
+      "dni": 15760632,
+      "facultad": "I",
+      "apellidos": "Salas Cordero",
+      "nombres": "Rocio Guadalupe",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/15760632.jpg"
+    },
+    {
+      "dni": 16023383,
+      "facultad": "I",
+      "apellidos": "Eliana Cecilia",
+      "nombres": "Rizabal Flores",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/16023383.jpg"
+    },
+    {
+      "dni": 17821759,
+      "facultad": "I",
+      "apellidos": "Yarko Alvaro",
+      "nombres": "Cerna Valdez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/17821759.jpg"
+    },
+    {
+      "dni": 17943927,
+      "facultad": "I",
+      "apellidos": "Josue",
+      "nombres": "Angulo Perez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/17943927.jpg"
+    },
+    {
+      "dni": 17949772,
+      "facultad": "I",
+      "apellidos": "Gladys",
+      "nombres": "Cruz Yupanqui",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/17949772.jpg"
+    },
+    {
+      "dni": 18037461,
+      "facultad": "I",
+      "apellidos": "Jose Luis",
+      "nombres": "Alvarado Rodriguez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/18037461.jpg"
+    },
+    {
+      "dni": 18099130,
+      "facultad": "I",
+      "apellidos": "Eduardo Jose",
+      "nombres": "Cieza De Leon Tuesta",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/18099130.jpg"
+    },
+    {
+      "dni": 18206962,
+      "facultad": "I",
+      "apellidos": "Leonidas Benito",
+      "nombres": "Zarate Otarola",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/18206962.jpg"
+    },
+    {
+      "dni": 20024564,
+      "facultad": "I",
+      "apellidos": "Edgar Socrates",
+      "nombres": "Vilcapoma Escurra",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/20024564.jpg"
+    },
+    {
+      "dni": 21240610,
+      "facultad": "I",
+      "apellidos": "Eloy Eladio",
+      "nombres": "Ayala Falcon",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/21240610.jpg"
+    },
+    {
+      "dni": 21298175,
+      "facultad": "I",
+      "apellidos": "Carlos",
+      "nombres": "Sanchez Huaringa",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/21298175.jpg"
+    },
+    {
+      "dni": 21805170,
+      "facultad": "I",
+      "apellidos": "Cesar Aldo",
+      "nombres": "Canelo Sotelo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/21805170.jpg"
+    },
+    {
+      "dni": 25408588,
+      "facultad": "I",
+      "apellidos": "Santiago",
+      "nombres": "Tarazona Ponte",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/25408588.jpg"
+    },
+    {
+      "dni": 25502589,
+      "facultad": "I",
+      "apellidos": "Maria Enerina",
+      "nombres": "Eguzquiza Figueroa",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/25502589.jpg"
+    },
+    {
+      "dni": 25624356,
+      "facultad": "I",
+      "apellidos": "Jose Antonio",
+      "nombres": "Linares Valencia",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/25624356.jpg"
+    },
+    {
+      "dni": 25718957,
+      "facultad": "I",
+      "apellidos": "Javier Armando",
+      "nombres": "Huerta Ortega",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/25718957.jpg"
+    },
+    {
+      "dni": 30857223,
+      "facultad": "I",
+      "apellidos": "Rildo",
+      "nombres": "Campana Añasco",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/30857223.jpg"
+    },
+    {
+      "dni": 41029100,
+      "facultad": "I",
+      "apellidos": "Miguel",
+      "nombres": "Mosquera Molina",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/41029100.jpg"
+    },
+    {
+      "dni": 41585247,
+      "facultad": "I",
+      "apellidos": "Jesus",
+      "nombres": "Cernades Gomez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/41585247.jpg"
+    },
+    {
+      "dni": 41838981,
+      "facultad": "I",
+      "apellidos": "John Clerk",
+      "nombres": "Valle Santos",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/41838981.jpg"
+    },
+    {
+      "dni": 42231841,
+      "facultad": "I",
+      "apellidos": "Rony Jordan",
+      "nombres": "Hancco Carpio",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/42231841.jpg"
+    },
+    {
+      "dni": 42321183,
+      "facultad": "I",
+      "apellidos": "Miguel",
+      "nombres": "Cutipa Coaquira",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/42321183.jpg"
+    },
+    {
+      "dni": 42405425,
+      "facultad": "I",
+      "apellidos": "Pamela Maruja",
+      "nombres": "Obando Chavez",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/42405425.jpg"
+    },
+    {
+      "dni": 43658083,
+      "facultad": "I",
+      "apellidos": "Jose Alberto",
+      "nombres": "Caballero Ortiz",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/43658083.jpg"
+    },
+    {
+      "dni": 45846630,
+      "facultad": "I",
+      "apellidos": "Salas Coz",
+      "nombres": "Erwin Erasmo",
+      "imageUrl": "https://www.orce.uni.edu.pe/profesores/45846630.jpg"
+    }
+  ]

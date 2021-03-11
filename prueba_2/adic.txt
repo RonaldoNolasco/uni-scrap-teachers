@@ -1,0 +1,26 @@
+{
+    "dni": "09010928",
+    "facultad": "I",
+    "apellidos": "NN",
+    "nombres": "NN"
+  },
+  {
+    "dni": 58547398,
+    "facultad": "I",
+    "apellidos": "NN",
+    "nombres": "NN"
+  }
+
+  Por pasar.
+  {
+    "dni": "07845838",
+    "facultad": "I",
+    "apellidos": "Rafael Cazorla",
+    "nombres": "Lopez Aliaga"
+  },
+  {
+    "dni": "07686040",
+    "facultad": "I",
+    "apellidos": "Jose Carlos",
+    "nombres": "Garcia La Riva"
+  },
