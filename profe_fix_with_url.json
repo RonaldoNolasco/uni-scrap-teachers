@@ -1,0 +1,947 @@
+[
+    {
+        "dni": "06010932",
+        "facultad": "I",
+        "apellidos": "Luis Alberto",
+        "nombres": "Zuloaga Rotta",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06021005",
+        "facultad": "I",
+        "apellidos": "Percy",
+        "nombres": "Calizaya Neira",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/PERCY_ANGEL_CALIZAYA_NEYRA.jpg"
+    },
+    {
+        "dni": "06024301",
+        "facultad": "I",
+        "apellidos": "Pe\u00c3\u00b1afort Luis",
+        "nombres": "Huaman Ureta",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06072137",
+        "facultad": "I",
+        "apellidos": "Raquel Martha",
+        "nombres": "Chavarri Arce",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/RAQUEL_MARTHA_CHAVARRI_ARCE.jpg"
+    },
+    {
+        "dni": "06113278",
+        "facultad": "I",
+        "apellidos": "Carlos Alberto",
+        "nombres": "Chafloque Elias",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CHAFLOQUE_ELAS_CARLOS_D.jpg"
+    },
+    {
+        "dni": "06118719",
+        "facultad": "I",
+        "apellidos": "Adolfo Eleazar",
+        "nombres": "Valencia Napan",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Adolfo_Eleazar_Valencia_Napan.jpg"
+    },
+    {
+        "dni": "06136338",
+        "facultad": "I",
+        "apellidos": "Daniel",
+        "nombres": "Morillo Rojas",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/daniel_morillo.jpg"
+    },
+    {
+        "dni": "06155171",
+        "facultad": "I",
+        "apellidos": "Alberto Carlos",
+        "nombres": "Neyra Luza",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06155335",
+        "facultad": "I",
+        "apellidos": "Jorge Pantaleon",
+        "nombres": "Alvarez Alvarez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06194640",
+        "facultad": "I",
+        "apellidos": "Tino Eduardo",
+        "nombres": "Reyna Monteverde",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/TINO_EDUARDO_REYNA_MONTEVERDE.jpg"
+    },
+    {
+        "dni": "06199275",
+        "facultad": "I",
+        "apellidos": "Percy Victor",
+        "nombres": "Ca\u00c3\u00b1ote Fajardo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06213304",
+        "facultad": "I",
+        "apellidos": "Ariel Ludwing",
+        "nombres": "Monroy Miranda",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06242816",
+        "facultad": "I",
+        "apellidos": "Antonio",
+        "nombres": "Zu\u00c3\u00b1iga Mercado",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06560345",
+        "facultad": "I",
+        "apellidos": "Pedro Raul",
+        "nombres": "Acosta De La Cruz",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/ACOSTA_DE_LA_CRUZ_PEDRO_RAUL.jpg"
+    },
+    {
+        "dni": "06617725",
+        "facultad": "I",
+        "apellidos": "Jose Carlos",
+        "nombres": "Hidalgo Rodriguez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06633050",
+        "facultad": "I",
+        "apellidos": "Victor Jose",
+        "nombres": "Moncada Cajavilca",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06680108",
+        "facultad": "I",
+        "apellidos": "Rodolfo Elias",
+        "nombres": "Falconi Vasquez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06703885",
+        "facultad": "I",
+        "apellidos": "Felipe Tsutomu",
+        "nombres": "Hiromoto Hiromoto",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/FELIPE_TSUTOMU_HIROMOTO_HIROMOTO.jpg"
+    },
+    {
+        "dni": "06793193",
+        "facultad": "I",
+        "apellidos": "Humberto Urbano",
+        "nombres": "Arteaga Cortez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/HUMBERTO_URBANO_ARTEAGA_CORTEZ.jpg"
+    },
+    {
+        "dni": "06798544",
+        "facultad": "I",
+        "apellidos": "Jose Valerio",
+        "nombres": "Benites Yarleque",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jose_Valerio_Benites_Yarlequ.jpg"
+    },
+    {
+        "dni": "06925520",
+        "facultad": "I",
+        "apellidos": "Joaquin Magnot",
+        "nombres": "Salcedo Torres",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JOAQUIN_MAGNOT_SALCEDO_TORRES.jpg"
+    },
+    {
+        "dni": "06954147",
+        "facultad": "I",
+        "apellidos": "Alejandro Apolinario",
+        "nombres": "Huaman Sanchez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "06974564",
+        "facultad": "I",
+        "apellidos": "Mery Noemi",
+        "nombres": "Morales Cuellar",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Mery_Noemi_Morales_Cuellar.jpg"
+    },
+    {
+        "dni": "07147676",
+        "facultad": "I",
+        "apellidos": "Daniel Adolfo",
+        "nombres": "Alcantara Malca",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/ALCANTARA_MALCA_DANIEL.jpg"
+    },
+    {
+        "dni": "07174914",
+        "facultad": "I",
+        "apellidos": "Doris Fanny",
+        "nombres": "Rojas Mendoza",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07200246",
+        "facultad": "I",
+        "apellidos": "Celedonio",
+        "nombres": "Mendez Valdivia",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07207260",
+        "facultad": "I",
+        "apellidos": "Petra Eline",
+        "nombres": "Rondinel Pineda",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Petra_Eline_Rondinel_Pineda.jpg"
+    },
+    {
+        "dni": "07219818",
+        "facultad": "I",
+        "apellidos": "Gloria Teresita",
+        "nombres": "Huamani Huamani",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/GLORIA_TERESITA_HUAMANI_HUAMANI.jpg"
+    },
+    {
+        "dni": "07241464",
+        "facultad": "I",
+        "apellidos": "Ricardo Aurelio",
+        "nombres": "Rodriguez Ulloa",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07277532",
+        "facultad": "I",
+        "apellidos": "Inocente Cirilo",
+        "nombres": "Sedano Santiago",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Inocente_Cirilo_Sedano_Santiago.jpg"
+    },
+    {
+        "dni": "07290532",
+        "facultad": "I",
+        "apellidos": "Luisa",
+        "nombres": "Llancce Mondragon",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/LUISA_LLANCCE_MONDRAGON_DE_ORDOEZ.jpg"
+    },
+    {
+        "dni": "07338715",
+        "facultad": "I",
+        "apellidos": "Alejandrina Nelly",
+        "nombres": "Huarcaya Junes",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Alejandrina_Nelly_Huarcaya_Junes.jpg"
+    },
+    {
+        "dni": "07388362",
+        "facultad": "I",
+        "apellidos": "Carlos",
+        "nombres": "Mu\u00c3\u00b1oz Inga",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07425813",
+        "facultad": "I",
+        "apellidos": "Carlos Eduardo",
+        "nombres": "Arambulo Ostos",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07558599",
+        "facultad": "I",
+        "apellidos": "Javier",
+        "nombres": "Echeandia Cespedes",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07698237",
+        "facultad": "I",
+        "apellidos": "Luis",
+        "nombres": "Lescano Avila",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07709155",
+        "facultad": "I",
+        "apellidos": "Lourdes Cristina",
+        "nombres": "Kala Bejar",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07733247",
+        "facultad": "I",
+        "apellidos": "Teodoro Luciano",
+        "nombres": "Cordova Neri",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07745417",
+        "facultad": "I",
+        "apellidos": "Vicente",
+        "nombres": "Pe\u00c3\u00b1a Yalico",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07808743",
+        "facultad": "I",
+        "apellidos": "Nancy Elena",
+        "nombres": "Fukuda Kagami",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07908604",
+        "facultad": "I",
+        "apellidos": "Cesar Aurelio",
+        "nombres": "Miranda Torres",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07909362",
+        "facultad": "I",
+        "apellidos": "Enrique Gustavo",
+        "nombres": "Alania Vera",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "07945809",
+        "facultad": "I",
+        "apellidos": "Carmen Ivonne",
+        "nombres": "Lau Carrillo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/carmen_lau.jpg"
+    },
+    {
+        "dni": "07955658",
+        "facultad": "I",
+        "apellidos": "Franco Luciano",
+        "nombres": "Krajnik Stulin",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08036480",
+        "facultad": "I",
+        "apellidos": "Herlinda Irma",
+        "nombres": "Anco Bonifaz",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/HERLINDA_IRMA_ANCO_BONIFAZ.jpg"
+    },
+    {
+        "dni": "08048168",
+        "facultad": "I",
+        "apellidos": "Haydee Liliana",
+        "nombres": "Lopez Benavides",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/HAYDEE_LILIANA_LOPEZ_BENAVIDES.jpg"
+    },
+    {
+        "dni": "08076105",
+        "facultad": "I",
+        "apellidos": "Luis Alberto",
+        "nombres": "Lujan Campos",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Luis_Alberto_Lujan_Campos.jpg"
+    },
+    {
+        "dni": "08107146",
+        "facultad": "I",
+        "apellidos": "Victor Adolfo",
+        "nombres": "Leyton Diaz",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/VICTOR_ADOLFO_LEYTON_DIAZ1.jpg"
+    },
+    {
+        "dni": "08150300",
+        "facultad": "I",
+        "apellidos": "Jose",
+        "nombres": "Zamora Ramirez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jose_Alberto_Zamora_Ramirez_1.jpg"
+    },
+    {
+        "dni": "08186262",
+        "facultad": "I",
+        "apellidos": "Carlos Antonio",
+        "nombres": "Flores Bashi",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CARLOS_ANTONIO_FLORES_BASHI.jpg"
+    },
+    {
+        "dni": "08195170",
+        "facultad": "I",
+        "apellidos": "Jorge Fernando",
+        "nombres": "Guzman Yangato",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08230958",
+        "facultad": "I",
+        "apellidos": "Manuel Helarf",
+        "nombres": "Velarde Carpio",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Manuel_Helarf_Velarde_Carpio.jpg"
+    },
+    {
+        "dni": "08244992",
+        "facultad": "I",
+        "apellidos": "Waldo Alejandro",
+        "nombres": "Rodriguez Franco",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08250929",
+        "facultad": "I",
+        "apellidos": "Jose Hugo Patricio",
+        "nombres": "Portillo Campbell",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08278734",
+        "facultad": "I",
+        "apellidos": "Jaime",
+        "nombres": "San Bartolome Montero",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JAIME_SAN_BARTOLOME_MONTERO.jpg"
+    },
+    {
+        "dni": "08405192",
+        "facultad": "I",
+        "apellidos": "Javier Tolentino",
+        "nombres": "Canchano Caro",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JAVIER_CANCHANO.jpg"
+    },
+    {
+        "dni": "08439755",
+        "facultad": "I",
+        "apellidos": "Luis Felipe",
+        "nombres": "Medina Aquino",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/LUIS_FELIPE_MEDINA_AQUINO.jpg"
+    },
+    {
+        "dni": "08527553",
+        "facultad": "I",
+        "apellidos": "Hernan Julio",
+        "nombres": "Parra Osorio",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Hernan_Julio_Parra_Osorio.jpg"
+    },
+    {
+        "dni": "08540874",
+        "facultad": "I",
+        "apellidos": "Jorge Daniel",
+        "nombres": "Llanos Panduro",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jorge_Daniel_Llanos_Panduro.jpg"
+    },
+    {
+        "dni": "08544786",
+        "facultad": "I",
+        "apellidos": "William",
+        "nombres": "Oria Chavarria",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/William_Oria_Chavarria.jpg"
+    },
+    {
+        "dni": "08562323",
+        "facultad": "I",
+        "apellidos": "Luis",
+        "nombres": "Fernandez Aguilar",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08571911",
+        "facultad": "I",
+        "apellidos": "Guillermo Roldan",
+        "nombres": "Cruz Figueroa",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08578583",
+        "facultad": "I",
+        "apellidos": "Riquelmer Apolinario",
+        "nombres": "Vasquez Dominguez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08602564",
+        "facultad": "I",
+        "apellidos": "Hector",
+        "nombres": "Valdivia Mendoza",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Hector_Giovanny_Valdivia_Mendoza.jpg"
+    },
+    {
+        "dni": "08630936",
+        "facultad": "I",
+        "apellidos": "Gelacio",
+        "nombres": "Tafur Anzualdo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Gelacio_Albino_Tafur_Anzualdo.jpg"
+    },
+    {
+        "dni": "08646724",
+        "facultad": "I",
+        "apellidos": "Carlos",
+        "nombres": "Ramos Montes",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08666248",
+        "facultad": "I",
+        "apellidos": "Victor Arturo",
+        "nombres": "Simich Lopez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Victor_Arturo_Simich_Lopez.jpg"
+    },
+    {
+        "dni": "08704308",
+        "facultad": "I",
+        "apellidos": "Emilio Alberto",
+        "nombres": "Un Jan Liau Hing",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/EMILIO_ALBERTO_UN_JAN_LIAU_HING.jpg"
+    },
+    {
+        "dni": "08724993",
+        "facultad": "I",
+        "apellidos": "Margarita Delicia",
+        "nombres": "Mondragon Hernandez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/MARGARITA_DELICIA_MONDRAGON_HERNANDEZ.jpg"
+    },
+    {
+        "dni": "08738556",
+        "facultad": "I",
+        "apellidos": "Luis Alberto",
+        "nombres": "Callo Moscoso",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CALLO_MOSCOSO_LUIS_D.jpg"
+    },
+    {
+        "dni": "08796599",
+        "facultad": "I",
+        "apellidos": "Bruno Juan",
+        "nombres": "Puccio Quevedo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08811025",
+        "facultad": "I",
+        "apellidos": "Ernesto Robinson",
+        "nombres": "Flores Cisneros",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/ernesto_flores.jpg"
+    },
+    {
+        "dni": "08841400",
+        "facultad": "I",
+        "apellidos": "Oscar Guillermo",
+        "nombres": "Zaldivar Alvarez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/OSCAR_GUILLERMO_ZALDIVAR_ALVAREZ.jpg"
+    },
+    {
+        "dni": "08855934",
+        "facultad": "I",
+        "apellidos": "Fernando",
+        "nombres": "Sotomayor Aramburu",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "08857324",
+        "facultad": "I",
+        "apellidos": "Leoncio Luis",
+        "nombres": "Acu\u00c3\u00b1a Pinaud",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09097479",
+        "facultad": "I",
+        "apellidos": "Juan Carlos",
+        "nombres": "Sotelo Villena",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09158351",
+        "facultad": "I",
+        "apellidos": "Mario Heinrich",
+        "nombres": "Fisfalen Huerta",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/MARIO_HEINRICH_FISFALEN_HUERTA.jpg"
+    },
+    {
+        "dni": "09159224",
+        "facultad": "I",
+        "apellidos": "Roberto Erasmo",
+        "nombres": "Eyzaguirre Tejada",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09179094",
+        "facultad": "I",
+        "apellidos": "Wilfredo",
+        "nombres": "Carranza Barrena",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/WILFREDO_EDUARDO_CARRANZA_BARRENA.jpg"
+    },
+    {
+        "dni": "09183201",
+        "facultad": "I",
+        "apellidos": "Ricardo Alejandro",
+        "nombres": "Chung Ching",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/RICARDO_ALEJANDRO_CHUNG_CHING.jpg"
+    },
+    {
+        "dni": "09192541",
+        "facultad": "I",
+        "apellidos": "Bilma Elizabeth",
+        "nombres": "Osorio Marujo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09199759",
+        "facultad": "I",
+        "apellidos": "Javier Concepcion",
+        "nombres": "Sanchez Espinoza",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09309255",
+        "facultad": "I",
+        "apellidos": "Cesar Antonio",
+        "nombres": "Fernandez Lostaunau",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CESAR_ANTONIO_FERNANDEZ_LOSTAUNAU.jpg"
+    },
+    {
+        "dni": "09346414",
+        "facultad": "I",
+        "apellidos": "Samuel Alonso",
+        "nombres": "Oporto Diaz",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Samuel_Alonso_Oporto_Diaz.jpg"
+    },
+    {
+        "dni": "09364223",
+        "facultad": "I",
+        "apellidos": "John Edison",
+        "nombres": "Taipe Arias",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JOHN_EDISON_TAIPE_ARIAS_1.jpg"
+    },
+    {
+        "dni": "09443967",
+        "facultad": "I",
+        "apellidos": "Saul",
+        "nombres": "Acevedo Raymundo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/SAUL_ACEVEDO_RAYMUNDO.jpg"
+    },
+    {
+        "dni": "09521411",
+        "facultad": "I",
+        "apellidos": "Jesus Walter",
+        "nombres": "Antaurco Trujillo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jesus_Walter_Antaurco_Trujillo.jpg"
+    },
+    {
+        "dni": "09536866",
+        "facultad": "I",
+        "apellidos": "Luis Alberto",
+        "nombres": "Ulfe Vega",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Luis_Alberto_Ulfe_Vega.jpg"
+    },
+    {
+        "dni": "09554620",
+        "facultad": "I",
+        "apellidos": "Jaime Ignacio",
+        "nombres": "Ramos Moreno",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "09564573",
+        "facultad": "I",
+        "apellidos": "Ruben Arturo",
+        "nombres": "Borja Rosales",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/RUBEN_ARTURO_BORJA_ROSALES.jpg"
+    },
+    {
+        "dni": "09646613",
+        "facultad": "I",
+        "apellidos": "Wilmer",
+        "nombres": "Perfecto Manrique",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/fotoWRPM_-_WILMER_RICHARD_PERFECTO_MANRIQUE.png"
+    },
+    {
+        "dni": "09794509",
+        "facultad": "I",
+        "apellidos": "Isaac Ernesto",
+        "nombres": "Bringas Masgo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/BRINGAS_MASGO_ISAAC_D.jpg"
+    },
+    {
+        "dni": "09881386",
+        "facultad": "I",
+        "apellidos": "Silvio",
+        "nombres": "Quinteros Chavez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/SILVIO_QUINTEROS_CHAVEZ.jpg"
+    },
+    {
+        "dni": "09919366",
+        "facultad": "I",
+        "apellidos": "Paul Miller",
+        "nombres": "Tocto Inga",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/paul_tocto.jpg"
+    },
+    {
+        "dni": "09958605",
+        "facultad": "I",
+        "apellidos": "Alfredo Rolando",
+        "nombres": "Aguero Mauricio",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/alfredo_aguero.jpg"
+    },
+    {
+        "dni": "09986970",
+        "facultad": "I",
+        "apellidos": "Enero Antonio",
+        "nombres": "Jaime Alfredo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "10061628",
+        "facultad": "I",
+        "apellidos": "Carlos Alfredo",
+        "nombres": "Trigo Perez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Carlos_Alfredo_Trigo_Perez.jpg"
+    },
+    {
+        "dni": "10062042",
+        "facultad": "I",
+        "apellidos": "Glen Dario",
+        "nombres": "Rodriguez Rafael",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/GLEN_DARIO_RODRIGUEZ_RAFAEL.jpg"
+    },
+    {
+        "dni": "10080908",
+        "facultad": "I",
+        "apellidos": "Wester Edison",
+        "nombres": "Zela Moraya",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/WESTER_EDISON_ZELA_MORAYA.jpg"
+    },
+    {
+        "dni": "10131593",
+        "facultad": "I",
+        "apellidos": "Johnny Martin",
+        "nombres": "Pacheco Contreras",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JOHNNY_MARTIN_PACHECO_CONTRERAS.jpg"
+    },
+    {
+        "dni": "10212510",
+        "facultad": "I",
+        "apellidos": "Carlos Fidel",
+        "nombres": "Ponce Sanchez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Ponce_Sanchez_Carlos.jpg"
+    },
+    {
+        "dni": "10312636",
+        "facultad": "I",
+        "apellidos": "Osmar",
+        "nombres": "Bermeo Carrasco",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/OSMAR_ARNALDO_BERMEO_CARRASCO.jpg"
+    },
+    {
+        "dni": "10321869",
+        "facultad": "I",
+        "apellidos": "Jose Alberto",
+        "nombres": "Villanueva Herrera",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jose_Alberto_Villanueva_Herrera.jpg"
+    },
+    {
+        "dni": "10340291",
+        "facultad": "I",
+        "apellidos": "Victor Antonio",
+        "nombres": "Caicedo Bustamante",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CAICEDO_BUSTAMANTE_VICTOR_D.jpg"
+    },
+    {
+        "dni": "10437041",
+        "facultad": "I",
+        "apellidos": "Yolanda Adriana",
+        "nombres": "Segura Garcia",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "10491625",
+        "facultad": "I",
+        "apellidos": "Emerson Flormiro",
+        "nombres": "Carranza Milla",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Emerson_Flormiro_Carranza_Milla.jpg"
+    },
+    {
+        "dni": "10689661",
+        "facultad": "I",
+        "apellidos": "Jose Alfredo",
+        "nombres": "Espinoza Espinoza",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JOSE_ALFREDO_ESPINOZA_ESPINOZA.jpg"
+    },
+    {
+        "dni": "10702554",
+        "facultad": "I",
+        "apellidos": "Aldo Antonio",
+        "nombres": "Bravo Quispe",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Aldo_Bravo.jpg"
+    },
+    {
+        "dni": "10774391",
+        "facultad": "I",
+        "apellidos": "Richard Ismael",
+        "nombres": "Zamora Yansi",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "10866812",
+        "facultad": "I",
+        "apellidos": "Gloria Esther",
+        "nombres": "Valdivia Camacho",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/gloria_valdivia.jpg"
+    },
+    {
+        "dni": "15760632",
+        "facultad": "I",
+        "apellidos": "Salas Cordero",
+        "nombres": "Rocio Guadalupe",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "16023383",
+        "facultad": "I",
+        "apellidos": "Eliana Cecilia",
+        "nombres": "Rizabal Flores",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "17821759",
+        "facultad": "I",
+        "apellidos": "Yarko Alvaro",
+        "nombres": "Cerna Valdez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "17943927",
+        "facultad": "I",
+        "apellidos": "Josue",
+        "nombres": "Angulo Perez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "17949772",
+        "facultad": "I",
+        "apellidos": "Gladys",
+        "nombres": "Cruz Yupanqui",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "18037461",
+        "facultad": "I",
+        "apellidos": "Jose Luis",
+        "nombres": "Alvarado Rodriguez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/ALVARADO_RODRGUEZ_JOSE_D.jpg"
+    },
+    {
+        "dni": "18099130",
+        "facultad": "I",
+        "apellidos": "Eduardo Jose",
+        "nombres": "Cieza De Leon Tuesta",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Eduardo_Jose_Cieza_de_Leon_Tuesta_actual.jpg"
+    },
+    {
+        "dni": "18206962",
+        "facultad": "I",
+        "apellidos": "Leonidas Benito",
+        "nombres": "Zarate Otarola",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/LEONIDAS_BENITO_ZARATE_OTAROLA.jpg"
+    },
+    {
+        "dni": "20024564",
+        "facultad": "I",
+        "apellidos": "Edgar Socrates",
+        "nombres": "Vilcapoma Escurra",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "21240610",
+        "facultad": "I",
+        "apellidos": "Eloy Eladio",
+        "nombres": "Ayala Falcon",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/ELOY_ELADIO_AYALA_FALCON.jpg"
+    },
+    {
+        "dni": "21298175",
+        "facultad": "I",
+        "apellidos": "Carlos",
+        "nombres": "Sanchez Huaringa",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Ponce_Sanchez_Carlos.jpg"
+    },
+    {
+        "dni": "21805170",
+        "facultad": "I",
+        "apellidos": "Cesar Aldo",
+        "nombres": "Canelo Sotelo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/CANELO_SOTELO_CESAR_D.jpg"
+    },
+    {
+        "dni": "25408588",
+        "facultad": "I",
+        "apellidos": "Santiago",
+        "nombres": "Tarazona Ponte",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "25502589",
+        "facultad": "I",
+        "apellidos": "Maria Enerina",
+        "nombres": "Eguzquiza Figueroa",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "25624356",
+        "facultad": "I",
+        "apellidos": "Jose Antonio",
+        "nombres": "Linares Valencia",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "25718957",
+        "facultad": "I",
+        "apellidos": "Javier Armando",
+        "nombres": "Huerta Ortega",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    },
+    {
+        "dni": "30857223",
+        "facultad": "I",
+        "apellidos": "Rildo",
+        "nombres": "Campana A\u00c3\u00b1asco",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/RILDO_CAMPANA_AASCO.jpg"
+    },
+    {
+        "dni": "41029100",
+        "facultad": "I",
+        "apellidos": "Miguel",
+        "nombres": "Mosquera Molina",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/miguel_-_MIGUEL_ANGEL_MOSQUERA_MOLINA.jpg"
+    },
+    {
+        "dni": "41585247",
+        "facultad": "I",
+        "apellidos": "Jesus",
+        "nombres": "Cernades Gomez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/JESUS_CERNADES_GOMEZ.jpg"
+    },
+    {
+        "dni": "41838981",
+        "facultad": "I",
+        "apellidos": "John Clerk",
+        "nombres": "Valle Santos",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/John_Clerk_Valle_Santos.jpg"
+    },
+    {
+        "dni": "42231841",
+        "facultad": "I",
+        "apellidos": "Rony Jordan",
+        "nombres": "Hancco Carpio",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/RONY_JORDAN_HANCCO_CARPIO.jpg"
+    },
+    {
+        "dni": "42321183",
+        "facultad": "I",
+        "apellidos": "Miguel",
+        "nombres": "Cutipa Coaquira",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/MIGUEL_CUTIPA_COAQUIRA.jpg"
+    },
+    {
+        "dni": "42405425",
+        "facultad": "I",
+        "apellidos": "Pamela Maruja",
+        "nombres": "Obando Chavez",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/PAMELA_MARUJA_OBANDO_CHAVEZ.jpg"
+    },
+    {
+        "dni": "43658083",
+        "facultad": "I",
+        "apellidos": "Jose Alberto",
+        "nombres": "Caballero Ortiz",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/Jose_Alberto_Caballero_Ortiz.jpg"
+    },
+    {
+        "dni": "45846630",
+        "facultad": "I",
+        "apellidos": "Salas Coz",
+        "nombres": "Erwin Erasmo",
+        "imgUrl": "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+    }
+]

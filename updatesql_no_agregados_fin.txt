@@ -1,0 +1,14 @@
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/luis_acua.jpg' where id = 77;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/jorge_lvarez.jpg' where id = 11;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/ARADIEL_CASTAEDA_HILARIO_D.jpg' where id = 64;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/ARMBULO_OSTOS_CARLOS_D.jpg' where id = 36;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/CAOTE_FAJARDO_PERCY_D.jpg' where id = 13;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/mara_egzquiza.jpg' where id = 125;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/rodolfo_falcon.jpg' where id = 19;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/Elena_Fukuda_Kagami.jpg' where id = 42;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/alejandro_huamn.jpg' where id = 24;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/PEAFORT_LUIS_HUAMAN_URETA.jpg' where id = 5;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/jos_linares.jpg' where id = 126;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/celedonio_mndez_valdivia.jpg' where id = 28;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/VICENTE_PEA_YALICO.jpg' where id = 41;
+update file set public_url = 'http://www.fiis.uni.edu.pe/images/Docentes/Ing_Zuloaga.jpg' where id = 3;

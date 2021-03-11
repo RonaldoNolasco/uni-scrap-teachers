@@ -7,6 +7,17 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 urls = []
 
+def todosLosDNIaString():
+    with open('profe.json', 'r') as input_file:
+        data = json.load(input_file)
+
+    for value in data:
+        value["dni"] = str(value["dni"])
+
+    with open('profe_fix.json', 'w') as output_file:
+        json.dump(data, output_file, indent=4)
+
+
 def obteniendoImagenes():
     for i in range(0,127,18):
         url = "http://www.fiis.uni.edu.pe/plana-docente?start=" + str(i)
@@ -30,15 +41,66 @@ def almacenarImagenes():
     urls.pop(len(urls)-1)
 
 def creandoJson():
-    print("xd")
+    count = 0
+    with open('profe_fix.json', 'r') as input_file:
+        data = json.load(input_file)
 
+    for value in data:
+        nombre = value["nombres"].split(" ")[0].lower()
+        apellido = value["apellidos"].split(" ")[0].lower()
+        for url in urls:
+            if (nombre.lower() in url.lower() and apellido.lower() in url.lower()):
+                value["imgUrl"] = url
+                count += 1
+                break
+            else:
+                value["imgUrl"] = "http://www.fiis.uni.edu.pe/images/Docentes/docente.jpg"
+
+    # VERIFICANDO CUALES NO SE AGREGARON
+    noAgregados = []
+    
+    for url in urls:
+        siEsta = False
+        for value in data:
+            if (url in value["imgUrl"]):
+                siEsta = True
+                break
+        if (siEsta == False):
+            noAgregados.append(url)
+    
+    with open('no_agregados.txt', 'w') as output_file:
+        for value in noAgregados:
+            output_file.write(value + "\n")
+
+    with open('profe_fix_with_url.json', 'w') as output_file:
+        json.dump(data, output_file, indent=4)
+
+def updateSQL():
+    with open('profe_fix_with_url.json', 'r') as input_file:
+        data = json.load(input_file)
+
+    # CREANDO EL SQL DE LOS QUE SI ESTAN MATCHEADOS
+    with open('updatesql.txt', 'w') as output_file:
+        for i in range(0,len(data)):
+            output_file.write("update file set public_url = '" + data[i]["imgUrl"] + "' where id = " + str(i+3) + ";\n")
+
+    # CREANDO EL SQL DE LOS QUE NO ESTAN MATCHEADOS
+    noAgregados = []
+
+    with open('no_agregados.txt', 'r') as input_file:
+        with open('updatesql_no_agregados.txt', 'w') as output_file:
+            for value in input_file.readlines():
+                output_file.write("update file set public_url = '" + value[:-1] + "' where id = ;\n")
 
 def main():
+    #SOLO SE EJECUTA UNA VEZ
+    #todosLosDNIaString()
+
     #obteniendoImagenes()
     almacenarImagenes()
-    #creandoJson()
+    creandoJson()
 
-    print(len(urls))
+    updateSQL()
 
 if __name__ == "__main__":
     main()
